@@ -11,6 +11,7 @@
 
 ### 🎯Some technologies I use:
 -----
+![image](https://img.shields.io/badge/-Linux%20Mint-%2368b63c?&style=for-the-badge&logo=linuxmint&logoColor=#f8f8f8)
 ![image](https://img.shields.io/badge/-Python-%23f3c53c?style=for-the-badge&logo=python&logoColor=#356998)
 ![image](https://img.shields.io/badge/-Jupyter%20Notebook-%23e77225?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23f2f2f2?&style=for-the-badge&logo=microsoftsqlserver&logoColor=red)
